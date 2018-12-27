@@ -97,6 +97,8 @@ var (
 		"badgerdb": true,
 		"bolt":     true,
 		"boltdb":   true,
+		"ram": 		true,
+		"ramdb": 	true,
 	}
 
 	redixBrand = `

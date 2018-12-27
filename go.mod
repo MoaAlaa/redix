@@ -25,7 +25,7 @@ require (
 	github.com/valyala/fasttemplate v0.0.0-20170224212429-dcecefd839c4 // indirect
 	go.etcd.io/bbolt v1.3.1-etcd.8.0.20181208010242-22d122a8b910
 	golang.org/x/net v0.0.0-20181213202711-891ebc4b82d6 // indirect
-	golang.org/x/sync v0.0.0-20181108010431-42b317875d0f // indirect
+	golang.org/x/sync v0.0.0-20181108010431-42b317875d0f
 	golang.org/x/sys v0.0.0-20181213200352-4d1cda033e06 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/resty.v1 v1.10.3
